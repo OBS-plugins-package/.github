@@ -1,6 +1,6 @@
 
 
-# OBS Plugins — Offline Setup Guide
+# OBS Plugins Package — Offline Setup Guide
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
 
